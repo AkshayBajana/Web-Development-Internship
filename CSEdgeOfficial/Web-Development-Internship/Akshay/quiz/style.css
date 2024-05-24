@@ -2,6 +2,8 @@ h2{
     text-align: center;
 }
     body {
+            background-image: url("quiz.jpg");
+    background-size:auto;
     font-family: Arial, sans-serif;
 }
 
